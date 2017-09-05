@@ -1,0 +1,366 @@
+{
+  "settings": {
+    "name": "Site-09-01_2342",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "unicore",
+      "title": "Unicore",
+      "styling": {
+        "primaryColor": "#29d9c2",
+        "successColor": "#7ac673",
+        "infoColor": "#27aae0",
+        "warningColor": "#faaf40",
+        "dangerColor": "#f97352",
+        "titleFont": "Montserrat",
+        "textFont": "Raleway",
+        "isSquareButtons": false
+      },
+      "additionalSetColors": []
+    },
+    "versionFirst": "4.2.3",
+    "uniqCompNum": 17,
+    "versionPublish": "4.2.3",
+    "favicon": "@PROJECT_PATH@/assets/images/ms-icon-144x144-128x128.png",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/istock-2000x1334.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.2
+          },
+          "title": "#OURYEARSOFAR",
+          "text": "Marketing materials and social media images for<br>Dilbeck Real Estates #OURYEARSOFAR report.",
+          "text1": "",
+          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary btn-cta\" data-toolbar=\"-mbrBtnMove\">VIEW REPORT</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header17",
+          "_anchor": "header17-g"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "filter": true,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "images": [
+              {
+                "tags": "Uniquely Socal",
+                "image": "@PROJECT_PATH@/assets/images/8b62fa4f-bb13-48b2-b0e3-7f34884edd28-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8b62fa4f-bb13-48b2-b0e3-7f34884edd28-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Uniquely Socal",
+                "image": "@PROJECT_PATH@/assets/images/59b8831a-a975-4658-b17b-b3911aad234e-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/59b8831a-a975-4658-b17b-b3911aad234e-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Uniquely Socal",
+                "image": "@PROJECT_PATH@/assets/images/b286e9cf-2c46-4d2c-8bbd-d78b2bfd96e5-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b286e9cf-2c46-4d2c-8bbd-d78b2bfd96e5-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Uniquely Socal",
+                "image": "@PROJECT_PATH@/assets/images/c980d768-44ed-47a0-9308-64a544d986d1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/c980d768-44ed-47a0-9308-64a544d986d1-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Uniquely Socal",
+                "image": "@PROJECT_PATH@/assets/images/a58dfe21-55b3-4746-aacf-072f11bdc5ba-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a58dfe21-55b3-4746-aacf-072f11bdc5ba-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": true,
+                "alt": ""
+              },
+              {
+                "tags": "Uniquely Socal",
+                "image": "@PROJECT_PATH@/assets/images/d548d649-4f0c-409e-92d9-a5b2e8319e38-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/d548d649-4f0c-409e-92d9-a5b2e8319e38-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Uniquely Socal",
+                "image": "@PROJECT_PATH@/assets/images/6a7f2128-67fd-4e49-bc08-858fe2c59a46-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6a7f2128-67fd-4e49-bc08-858fe2c59a46-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "#OURYEARSOFAR",
+                "image": "@PROJECT_PATH@/assets/images/7cc62367-2795-4ea4-916d-582e9d42d9ee-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7cc62367-2795-4ea4-916d-582e9d42d9ee-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "#OURYEARSOFAR",
+                "image": "@PROJECT_PATH@/assets/images/149a3bae-7ae0-4bbb-bfff-19878a5a3510-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/149a3bae-7ae0-4bbb-bfff-19878a5a3510-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "#OURYEARSOFAR",
+                "image": "@PROJECT_PATH@/assets/images/d386afb3-00e1-4778-a87b-61c367f4778f-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/d386afb3-00e1-4778-a87b-61c367f4778f-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "#OURYEARSOFAR",
+                "image": "@PROJECT_PATH@/assets/images/299cac10-a2b0-466d-bed4-174b37645f71-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/299cac10-a2b0-466d-bed4-174b37645f71-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "#OURYEARSOFAR",
+                "image": "@PROJECT_PATH@/assets/images/2c059000-d6b1-4be2-a27c-7744c9762da5-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2c059000-d6b1-4be2-a27c-7744c9762da5-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-8"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showMedia": true,
+            "bgImageRadio": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "INSTAGRAM &amp; FACEBOOK STORY",
+          "text": "This video is formatted to be shared as an Instagram and Facebook. To download the video simply click the link below. It will take you to a Dropbox link.<br><br>If you're downloading from a computer, you need to share the video to your phone. Go ahead and email it to yourself, or just copy and paste the Dropbox link and open in on any mobile device.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD VIDEO</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showMedia": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Facebook &amp; Instagram Square",
+          "text": "This video has a square format which is ideal for sharing on Facebook feeds and Instagram. To download the video simply click the link below. It will take you to a Dropbox link.<br><br>If you're downloading from a computer, you need to share the video to your phone. Go ahead and email it to yourself, or just copy and paste the Dropbox link and open in on any mobile device.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD VIDEO</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-4"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showMedia": true,
+            "bgImageRadio": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Full-Width Format",
+          "text": "This video is formatted in more traditional cinema-style. Can be used on any social media network. However it works best as a standalone video for embedding in websites and emails. To download the video simply click the link below. It will take you to a Dropbox link.<br><br>If you're downloading from a computer, you need to share the video to your phone. Go ahead and email it to yourself, or just copy and paste the Dropbox link and open in on any mobile device.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD VIDEO</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-6"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showText": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5,
+            "showIcons": true,
+            "iconsColor": "@primaryColor",
+            "icon1": "fa-mobile",
+            "icon2": "fa-trophy",
+            "icon3": "fa-check-circle"
+          },
+          "title1": "HOW TO SHARE MATERIAL",
+          "title2": "AMERICA's BEST IMAGES",
+          "title3": "BEST PRACTICES",
+          "title4": "Flashy Look",
+          "text1": "How to upload and share content to Facebook, Instagram, Twitter, and through email (using Gmail and Outlook).",
+          "text2": "All agents recognized as part of \"America's Best\" from Real Trends have access to specially crafted social media content. YAY!",
+          "text3": "Some best practices for sharing promotional content to social media and through email. You got this!",
+          "text4": "Lorem ipsum dolor sit amet elit convallis neque convallis est non turpis nisl ac justo rutrum sollic itudin urna interdum.",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-e"
+        }
+      ]
+    }
+  }
+}
