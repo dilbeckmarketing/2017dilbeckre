@@ -18,7 +18,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.2.3",
-    "uniqCompNum": 43,
+    "uniqCompNum": 51,
     "versionPublish": "4.2.3",
     "favicon": "@PROJECT_PATH@/assets/images/ms-icon-144x144-128x128.png",
     "noImageResize": ""
@@ -443,7 +443,7 @@
             }
           },
           "title": "Email Image",
-          "text": "Image you can share directly into Gmail, Outlook, or our CRM. Find directions on how to share and link the image in different clientns here.",
+          "text": "Image you can share directly into Gmail, Outlook, or our CRM. Find directions on how to share and link the image in different clients <a href=\"page2.html\">here</a>.",
           "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\">Purchase Now <i class=\"fa fa-shopping-cart\"></i></a>",
           "alias": "unicore/components",
           "_tags": [
@@ -476,8 +476,8 @@
             "icon2": "fa-trophy",
             "icon3": "fa-check-circle"
           },
-          "title1": "HOW TO SHARE MATERIAL",
-          "title2": "AMERICA's BEST IMAGES",
+          "title1": "<a href=\"page1.html\">HOW TO SHARE MATERIAL</a>",
+          "title2": "<a href=\"page3.html\">AMERICA's BEST IMAGES</a>",
           "title3": "<a href=\"https://medium.com/dilbeckre\" target=\"_blank\">MEDIUM BLOG</a>",
           "title4": "Flashy Look",
           "text1": "How to upload and share content to Facebook, Instagram, Twitter, and through email (using Gmail and Outlook).",
@@ -496,7 +496,7 @@
     "page1.html": {
       "settings": {
         "title": "Sharing",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -533,7 +533,7 @@
               "loop": false
             }
           },
-          "title1": "How to Share Images on Facebook",
+          "title1": "How to Share Images on Social Media",
           "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
           "text1": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
           "media2": {
@@ -715,7 +715,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "share photos or videos",
+          "title": "how to share photos or videos On facebook",
           "text": "Click<b> Share a photo or video</b> at the top of your Page's Timeline<br>Choose the option:<br><b>Upload Photos/Video</b>: Add photos or a video from your computer. The photos you publish will be added to your Page's Timeline Photos album.<br>Select the photos or videos you want to add<br>Write an optional update and click Publish",
           "alias": "unicore/components",
           "_tags": [
@@ -723,13 +723,67 @@
           ],
           "_name": "msg-box11",
           "_anchor": "msg-box11-16"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "how to share video to facebook story",
+          "text": "<br>1. Login to your updated app, as soon as you do you will notice the Stories Bar. It’s located at the top of your news feed.<br>2. To access its features, you have two choices; you can either tap the Your Stories Icon or the Camera Icon in the top-left corner of the screen.<br>3. Next, you will be presented with a which looks similar to what you may have seen on Instagram. At the bottom-center in a large Circular Button, tapping it will take a photo, holding it will shot video.<br>However, if you want to share something already stored on your device, you can via the icon on the bottom-right. Once selecting this you will be shown your images/video starting with the most recent. You can scroll through those shown from left-to-right, just tap to select.<br>4. Having now created or found the content for your first voyage into Facebook Stories it’s now time to save it. This can be done by tapping the large Circular Arrow Button which has appeared at the bottom of the screen.<br>5. ON the following screen you will see Your Story with a blue tick next to it. Looking at the bottom of the screen you will see a Blue Button. Tapping it will add Your Story to the Facebook feed for all your friends to see.<br><br>Additionally, you can select friends from the list who you would like to give one more view. This special viewing will allow them a window of 24 hours after that it will be gone.<br><br><b>How To Use Facebook Stories effects<br></b><br>Using Camera Effects<br><br>If you want to add effects to your Facebook Stories before posting, you can do so. However, from Step 3, do either of the following before saving.<br>1. There are two effects icons on the screen. One adds frames, masks, or camera effects. It can be found at the bottom-left of the app.<br>2. The next icon allows you to doodle over your image, it is the Downward Facing Pencil. Selecting it will reveal a selection of colors for you to choose.<br><br>Once you have selected and added your chosen effects, continue from Step 4 above to save and share your very first Facebook Story.<br>(Source:&nbsp;https://www.valuewalk.com/2017/04/add-more-photos-videos-facebook-stories/)",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box11",
+          "_anchor": "msg-box11-1e"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "How to share video on instagram story",
+          "text": "How to Add Photos/Videos in Instagram Stories from Gallery or Camera Roll?<br>Adding photos and videos in Instagram stories from your gallery or camera roll is entirely possible but the key thing to note here is that you can only upload the images or video from your gallery which isn’t any older than 24 hours.<br>Since the main focus of Instagram Stories is to showcase what happened in the past 24 hours — after which the Stories disappear — allowing users to post images older than that would’ve defeated the purpose of the Stories feature.<br><br>Here are 4 simple steps to add photos/videos in Instagram Stories from the Gallery.<br>Open the Instagram app and tap the ‘Home’ button. Find and click on either the ‘camera’ icon or ‘Your Story’ icon on the top left-hand side of the app window. You can alternatively swipe right to get to the Stories window quicker.<br>While on the Live Stories photo-capture window, swipe up or down on the screen.<br>After a second, you’ll see a carousel of images — clicked or received in the past 24 hours — on the bottom of the screen with the Live Stories window blurred in the background.<br>Select the image you want to post, add elements to your Story and upload.<br><br>(Source:&nbsp;https://www.guidingtech.com/67778/add-photos-instagram-stories-gallery/)",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box11",
+          "_anchor": "msg-box11-1d"
         }
       ]
     },
     "page2.html": {
       "settings": {
         "title": "Email",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1079,6 +1133,278 @@
           ],
           "_name": "msg-box11",
           "_anchor": "msg-box11-13"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "AmericasBest",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showInfo": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/1.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title1": "REAL Trends The Thousand &amp; America's Best",
+          "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text1": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/2.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title2": "Bakery egg foods around the world",
+          "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text2": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/3.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title3": "Bakery egg foods around the world",
+          "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text3": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/4.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title4": "Bakery egg foods around the world",
+          "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text4": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box22",
+          "_anchor": "msg-box22-18"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "filter": false,
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "images": [
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "image": "@PROJECT_PATH@/assets/images/3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "image": "@PROJECT_PATH@/assets/images/4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "image": "@PROJECT_PATH@/assets/images/6.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/7.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/80.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80.jpg",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-17"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/1.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title1": "Bakery egg foods around the world",
+          "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text1": "<p>The above images have been created for the teams and individuals recognized by The REAL Trends Thousand and America’s Best) in the United States.</p>",
+          "media2": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/2.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title2": "Bakery egg foods around the world",
+          "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text2": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/3.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title3": "Bakery egg foods around the world",
+          "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text3": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/4.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title4": "Bakery egg foods around the world",
+          "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text4": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box23",
+          "_anchor": "msg-box23-19"
         }
       ]
     }
