@@ -661,7 +661,7 @@
           },
           "title4": "How to Share Clickable Images Through Email",
           "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text4": "<p><p>You might want to share the report with your sphere as your contact for the month or quarter (and it would be pretty rad if you did)! We've made it easy to share through email, by creating one large image that can then be linked to the Medium website through all your email clients.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a></p>",
+          "text4": "<p></p><p>You might want to share the report with your sphere as your contact for the month or quarter (and it would be pretty rad if you did)! We've made it easy to share through email, by creating one large image that can then be linked to the Medium website through all your email clients.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a><p></p>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
