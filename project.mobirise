@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-01_2342",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -487,7 +487,7 @@
               "linkInNewWindow": false
             }
           },
-          "title": "Email Image",
+          "title": "<a href=\"page2.html\">Email Image</a>",
           "text": "Image you can share directly into Gmail, Outlook, or our CRM. Find directions on how to share and link the image in different clients <a href=\"page2.html\">here</a>.",
           "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\">Purchase Now <i class=\"fa fa-shopping-cart\"></i></a>",
           "alias": "unicore/components",
