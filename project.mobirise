@@ -20,7 +20,7 @@
       ]
     },
     "versionFirst": "4.2.3",
-    "uniqCompNum": 79,
+    "uniqCompNum": 80,
     "versionPublish": "4.2.3",
     "favicon": "@PROJECT_PATH@/assets/images/ms-icon-144x144-128x128.png",
     "noImageResize": ""
@@ -593,6 +593,123 @@
               "loop": false
             }
           },
+          "title1": "How to Share Images and Video in Facebook",
+          "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text1": "<p>As most of you know, Facebook has recently changed it's policy when sharing links to your pages. You can no longer change the link image. So when you copy and paste the image itself into your status update, you're stuck with whatever image populates. Here's a way to get around this!</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-b8c00b03d47b-1400x466.jpg",
+              "link": "page5.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title2": "How to Share Images and Video in Instagram",
+          "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text2": "<p>If you're on Instagram, you probably know how to share images. But here's a refresher on how to add images, tag photos, add an instagram story, and link a website in your profile.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\"><a href=\"page5.html\">Continue reading </a><i class=\"fa fa-angle-right\"></i></a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-824c1b8e3c77-1400x466.jpg",
+              "link": "page6.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title3": "How to Share Images and Video in Twitter",
+          "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text3": "<p>The supreme snippet social media channel! Here's a quick refresher on how to share to the site. Luckily, not much is new in the Twitterverse for posting. So if you're on Twitter now, you should know the ins and outs of posting.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\"></a><a href=\"page6.html\">Continue reading </a><i class=\"fa fa-angle-right\"></i>",
+          "media4": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-9fe034b89971-1400x466.jpg",
+              "link": "page2.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title4": "How to Share Clickable Images in Email",
+          "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text4": "<p>You might want to share the report with your sphere as your contact for the month or quarter (and it would be pretty rad if you did)! We've made it easy to share through email, by creating one large image that can then be linked to the Medium website through all your email clients.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\"></a><a href=\"page2.html\">Continue reading </a><i class=\"fa fa-angle-right\"></i>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box20",
+          "_anchor": "msg-box20-27"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showInfo": false,
+            "showMedia": true,
+            "showText": true,
+            "blocks": "3",
+            "bgImageRadio": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-6b5885c808ec-1400x466.jpg",
+              "link": "page4.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
           "title1": "How to Share Images and Video to Facebook",
           "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
           "text1": "<p>As most of you know, Facebook has recently changed it's policy when sharing links to your pages. You can no longer change the link image. So when you copy and paste the image itself into your status update, you're stuck with whatever image populates. Here's a way to get around this!</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\"></a><a href=\"page4.html\">Continue reading </a><i class=\"fa fa-angle-right\"></i>",
@@ -639,7 +756,7 @@
           },
           "title3": "How to Share Images and Video to Twitter",
           "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text3": "<p><p>The supreme snippet social media channel! Here's a quick refresher on how to share to the site. Luckily, not much is new in the Twitterverse for posting. So if you're on Twitter now, you should know the ins and outs of posting.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a></p>",
+          "text3": "<p></p><p>The supreme snippet social media channel! Here's a quick refresher on how to share to the site. Luckily, not much is new in the Twitterverse for posting. So if you're on Twitter now, you should know the ins and outs of posting.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a><p></p>",
           "media4": {
             "image": {
               "active": true,
