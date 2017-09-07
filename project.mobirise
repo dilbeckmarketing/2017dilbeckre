@@ -595,7 +595,7 @@
           },
           "title1": "How to Share Images and Video in Facebook",
           "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text1": "<p><p>As most of you know, Facebook has recently changed it's policy when sharing links to your pages. You can no longer change the link image. So when you copy and paste the image itself into your status update, you're stuck with whatever image populates. Here's a way to get around this!</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a></p>",
+          "text1": "<p></p><p>As most of you know, Facebook has recently changed it's policy when sharing links to your pages. You can no longer change the link image. So when you copy and paste the image itself into your status update, you're stuck with whatever image populates. Here's a way to get around this!</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\"></a><a href=\"page4.html\">Continue reading </a><i class=\"fa fa-angle-right\"></i><p></p>",
           "media2": {
             "image": {
               "active": true,
