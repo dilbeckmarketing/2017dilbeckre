@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-01_2342",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -57,7 +57,7 @@
           "title": "#OURYEARSOFAR",
           "text": "Marketing materials and social media images for<br>Dilbeck Real Estate's #OURYEARSOFAR report.",
           "text1": "",
-          "buttons": "<a data-app-btn=\"true\" href=\"https://issuu.com/dilbeckrealestate/docs/yearsofar5?e=29197698/52946539\" class=\"btn mbr-title-font btn-lg btn-primary btn-cta\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW REPORT</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://www.dilbeck.com/2017report\" class=\"btn mbr-title-font btn-lg btn-primary btn-cta\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW REPORT</a>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
@@ -1444,10 +1444,10 @@
               },
               {
                 "tags": "Awesome",
-                "image": "@PROJECT_PATH@/assets/images/img-8-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-8-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/carrie-grochow-americas-best-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/carrie-grochow-americas-best-2000x2000-800x800.jpg",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "alt": ""
               },
               {
@@ -1479,7 +1479,7 @@
                 "image": "@PROJECT_PATH@/assets/images/img-12-2000x2000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-12-2000x2000-800x800.jpg",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": ""
               }
             ]
